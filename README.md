@@ -1,4 +1,4 @@
-[lr_6]()
+[lr_6](https://lb6-l2ku.onrender.com)
 
 Пароль для всех пользователей: qwerty
 
